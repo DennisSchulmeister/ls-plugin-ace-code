@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "@dschulmeis/ls-utils": "^1.3.0",
-    "ace-code": "^1.36.2"
+    "ace-builds": "^1.36.2"
   }
 }
