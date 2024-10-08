@@ -6,6 +6,9 @@
   "repository": "git@github.com:DennisSchulmeister/ls-plugin-ace-code",
   "author": "Dennis Schulmeister-Zimolong <dennis@patk.org>",
   "license": "BSD-2-Clause",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "do-publish": "npm publish --access=public"
   },
